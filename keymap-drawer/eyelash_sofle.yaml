@@ -40,7 +40,7 @@ layers:
   - L
   - {t: ;, s: ':'}
   - END
-  - Sft+Alt+K
+  - Alt+Ctl+K
   - Z
   - X
   - C
