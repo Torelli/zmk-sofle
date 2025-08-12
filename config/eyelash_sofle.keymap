@@ -42,17 +42,17 @@
 
         curly_braces {
             bindings = <&kp LBRC>;
-            key-positions = <55 33>;
+            key-positions = <33 54>;
         };
 
         parenthesis {
             bindings = <&kp LEFT_PARENTHESIS>;
-            key-positions = <55 34>;
+            key-positions = <34 54>;
         };
 
         brackets {
             bindings = <&kp LEFT_BRACKET>;
-            key-positions = <55 35>;
+            key-positions = <35 54>;
         };
     };
 
