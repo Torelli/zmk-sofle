@@ -260,3 +260,10 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {h: '$$mdi:arrow-down-bold$$', s: '$$mdi:bluetooth-connect$$'}
+combos:
+- p: [55, 33]
+  k: '{'
+- p: [55, 34]
+  k: (
+- p: [55, 35]
+  k: {t: '[', s: '{'}
