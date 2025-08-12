@@ -37,6 +37,25 @@
     behaviors {
     };
 
+    combos {
+        compatible = "zmk,combos";
+
+        curly_braces {
+            bindings = <&kp LBRC>;
+            key-positions = <55 33>;
+        };
+
+        parenthesis {
+            bindings = <&kp LEFT_PARENTHESIS>;
+            key-positions = <55 34>;
+        };
+
+        brackets {
+            bindings = <&kp LEFT_BRACKET>;
+            key-positions = <55 35>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
